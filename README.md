@@ -2,4 +2,4 @@
 - 👀 I’m interested in teaching and working with Game Development
 - 🌱 I’m currently learning to draw with Aseprite
 - 💞️ I’m looking to help you make a better game
-- 📫 How to reach me [...](https://didntsayplease.wixsite.com/didntsayplease)https://didntsayplease.wixsite.com/didntsayplease
+- 📫 How to reach me (https://didntsayplease.wixsite.com/didntsayplease)https://didntsayplease.wixsite.com/didntsayplease
